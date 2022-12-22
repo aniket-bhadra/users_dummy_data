@@ -1,0 +1,275 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "97568456",
+      "address": "UK",
+      "img": "https://img.icons8.com/office/512/guest-male--v1.png",
+      "id": 2,
+      "status": "Active"
+    },
+    {
+      "name": "james",
+      "email": "james@gmail.com",
+      "phone": "75684569",
+      "address": "USA",
+      "img": "https://img.icons8.com/external-anggara-flat-anggara-putra/512/external-avatar-interface-anggara-flat-anggara-putra.png",
+      "id": 3,
+      "status": "Inactive"
+    },
+    {
+      "name": "jenny",
+      "email": "jenny@gmail.com",
+      "phone": "5684567589",
+      "address": "Italy",
+      "img": "https://img.icons8.com/plasticine/512/guest-male.png",
+      "id": 4,
+      "status": "Inactive"
+    },
+    {
+      "name": "sim",
+      "email": "sim@gmail.com",
+      "phone": "45689754676",
+      "address": "UK",
+      "img": "https://img.icons8.com/ios-filled/512/guest-male--v2.png",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "name": "rob",
+      "email": "rob@gmail.com",
+      "phone": "975684599",
+      "address": "UK",
+      "img": "https://img.icons8.com/windows/512/guest-male--v1.png",
+      "id": 6,
+      "status": "Active"
+    },
+    {
+      "name": "joe",
+      "email": "joe@gmail.com",
+      "phone": "9756845689",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/nolan/512/guest-male.png",
+      "id": 7,
+      "status": "Inactive"
+    },
+    {
+      "name": "jos",
+      "email": "jos@gmail.com",
+      "phone": "9756844562",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/wired/512/guest-male.png",
+      "id": 8,
+      "status": "Active"
+    },
+    {
+      "name": "arup",
+      "email": "arup@gmail.com",
+      "phone": "9756845685",
+      "address": "UK",
+      "img": "https://img.icons8.com/dusk/512/guest-male.png",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "ben",
+      "email": "ben@gmail.com",
+      "phone": "9756842356",
+      "address": "UK",
+      "img": "https://img.icons8.com/color-glass/512/guest-male.png",
+      "id": 10,
+      "status": "Inactive"
+    },
+    {
+      "name": "robin",
+      "email": "robin@gmail.com",
+      "phone": "9756822456",
+      "address": "Brazil",
+      "img": "https://img.icons8.com/glyph-neue/512/guest-male.png",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "leo",
+      "email": "leo@gmail.com",
+      "phone": "9756842256",
+      "address": "Brazil",
+      "img": "https://img.icons8.com/fluency/512/guest-male.png",
+      "id": 12,
+      "status": "Active"
+    },
+    {
+      "name": "martin",
+      "email": "martin@gmail.com",
+      "phone": "9756844456",
+      "address": "Argentina",
+      "img": "https://img.icons8.com/bubbles/512/guest-male.png",
+      "id": 13,
+      "status": "Inactive"
+    },
+    {
+      "name": "david",
+      "email": "david@gmail.com",
+      "phone": "9756841156",
+      "address": "Australia",
+      "img": "https://img.icons8.com/clouds/512/guest-male.png",
+      "id": 14,
+      "status": "Active"
+    },
+    {
+      "name": "smith",
+      "email": "smith@gmail.com",
+      "phone": "9756845226",
+      "address": "Australia",
+      "img": "https://img.icons8.com/ultraviolet/512/guest-male.png",
+      "id": 15,
+      "status": "Inactive"
+    },
+    {
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "phone": "9756338456",
+      "address": "Spain",
+      "img": "https://img.icons8.com/color/512/guest-male--v1.png",
+      "id": 16,
+      "status": "Active"
+    },
+    {
+      "name": "alis",
+      "email": "alis@gmail.com",
+      "phone": "975623458456",
+      "address": "Spain",
+      "img": "https://img.icons8.com/doodle/512/gender-neutral-user.png",
+      "id": 17,
+      "status": "Inactive"
+    },
+    {
+      "name": "kane",
+      "email": "kane@gmail.com",
+      "phone": "9756800456",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/stickers/512/lifecycle-skin-type-2.png",
+      "id": 18,
+      "status": "Active"
+    },
+    {
+      "name": "boult",
+      "email": "boult@gmail.com",
+      "phone": "9756228456",
+      "address": "UK",
+      "img": "https://img.icons8.com/color/512/name--v1.png",
+      "id": 19,
+      "status": "Active"
+    },
+    {
+      "name": "tim",
+      "email": "tim@gmail.com",
+      "phone": "97568452346",
+      "address": "Spain",
+      "img": "https://img.icons8.com/color/512/user.png",
+      "id": 20,
+      "status": "Active"
+    },
+    {
+      "name": "pepe",
+      "email": "pepe@gmail.com",
+      "phone": "9756008456",
+      "address": "UK",
+      "img": "https://img.icons8.com/doodle/512/user.png",
+      "id": 21,
+      "status": "Inactive"
+    },
+    {
+      "name": "gomez",
+      "email": "gomez@gmail.com",
+      "phone": "975684500036",
+      "address": "Spain",
+      "img": "https://img.icons8.com/arcade/512/gender-neutral-user--v2.png",
+      "id": 22,
+      "status": "Inactive"
+    },
+    {
+      "name": "russle",
+      "email": "russle@gmail.com",
+      "phone": "975684534526",
+      "address": "USA",
+      "img": "https://img.icons8.com/cute-clipart/512/name.png",
+      "id": 23,
+      "status": "Active"
+    },
+    {
+      "name": "patinson",
+      "email": "patinson@gmail.com",
+      "phone": "97568456345",
+      "address": "France",
+      "img": "https://img.icons8.com/plasticine/512/user.png",
+      "id": 24,
+      "status": "Active"
+    },
+    {
+      "name": "haminson",
+      "email": "haminson@gmail.com",
+      "phone": "9756845098326",
+      "address": "Spain",
+      "img": "https://img.icons8.com/color/512/user.png",
+      "id": 25,
+      "status": "Inactive"
+    },
+    {
+      "name": "andrew",
+      "email": "andrew@gmail.com",
+      "phone": "9756845212326",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/officel/512/gender-neutral-user.png",
+      "id": 26,
+      "status": "Active"
+    },
+    {
+      "name": "simons",
+      "email": "simons@gmail.com",
+      "phone": "97526",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/512/external-avatar-professions-avatar-wanicon-lineal-color-wanicon-15.png",
+      "id": 27,
+      "status": "Inactive"
+    },
+
+    {
+      "name": "aash",
+      "email": "aash@gmail.com",
+      "phone": "975684521232645",
+      "address": "Paris",
+      "img": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/512/external-avatar-fitness-and-gym-xnimrodx-lineal-color-xnimrodx-2.png",
+      "id": 28,
+      "status": "Active"
+    },
+    {
+      "name": "jane",
+      "email": "jane@gmail.com",
+      "phone": "97568452123262",
+      "address": "Berlin",
+      "img": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/512/external-avatar-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+      "id": 29,
+      "status": "Inactive"
+    },
+    {
+      "name": "mic",
+      "email": "mic@gmail.com",
+      "phone": "97568452132326",
+      "address": "Spain",
+      "img": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/512/external-avatar-passive-income-xnimrodx-lineal-color-xnimrodx.png",
+      "id": 30,
+      "status": "Active"
+    },
+    {
+      "name": "rit",
+      "email": "rit@gmail.com",
+      "phone": "97568452312326",
+      "address": "France",
+      "img": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/512/external-avatar-fitness-and-gym-xnimrodx-lineal-color-xnimrodx-3.png",
+      "id": 31,
+      "status": "Active"
+    }
+  ]
+}
